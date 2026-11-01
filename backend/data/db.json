@@ -1,0 +1,2721 @@
+{
+  "users": [
+    {
+      "id": "user_admin",
+      "name": "Site Admin",
+      "email": "admin@edulearn.com",
+      "role": "admin",
+      "status": "active",
+      "bio": "Platform administrator",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "phone": "",
+      "createdAt": "2025-08-10T19:45:52.977Z",
+      "passwordSalt": "28e11658f35a2a32312acd623407f644",
+      "passwordHash": "773791c9c689ffb41259e1acf39c2663f012681b9710100d440d9ea30326f242b5303d3bf50e2d601e7de1a2ac9f7e5406e7253cf8b0a1aa2707738bd7f4ca0b"
+    },
+    {
+      "id": "user_demo_student",
+      "name": "Demo Student",
+      "email": "student@edulearn.com",
+      "role": "student",
+      "status": "active",
+      "bio": "Passionate learner and always excited to gain new skills.",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "phone": "+20 123 456 7890",
+      "createdAt": "2026-05-10T19:45:53.024Z",
+      "passwordSalt": "a3393aa4f0d0afd3d3756ffa8f61a3bf",
+      "passwordHash": "baf50b01584877695dbf8e797d29b6523180f478fb2732ff287e39e3ffd2a5f451108734f677f74d723bb84ec683f9eacaf3017764415f86367181e06f4278af"
+    },
+    {
+      "id": "user_demo_0",
+      "name": "Ahmed Mohamed",
+      "email": "demo0@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-11-03T19:45:53.068Z",
+      "demo": true,
+      "passwordSalt": "46369d5c65c403e7ef4069d5947178e4",
+      "passwordHash": "7548beef1ea13c87f21aea3e6142f77cfaf486b30e9b9fca010dd082901c618b029c51d44d4839df58c287337410ddd4bd88d8ade52a01662f175c6cb40e1b63"
+    },
+    {
+      "id": "user_demo_1",
+      "name": "Sara Ibrahim",
+      "email": "demo1@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-11-04T19:45:53.122Z",
+      "demo": true,
+      "passwordSalt": "65b0fa74b479f0385de3e18b0c95618f",
+      "passwordHash": "8af842d1bbfebc25cb0e70c02470c6925166d417673c5cdf469a5720f9f5e65ba15ab822da3ef72586f630e9126ea642fe8d74d28eaa5bdff4d16aabe0041f75"
+    },
+    {
+      "id": "user_demo_2",
+      "name": "Omar Mahmoud",
+      "email": "demo2@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-11-05T19:45:53.168Z",
+      "demo": true,
+      "passwordSalt": "ad0de1fed72348cc32f66f0c342cc5f1",
+      "passwordHash": "bafb0f2ec66fd1dbb51fb77a896dcd1010171ea32c8daa860e2767843996d73536df423906f120566dfbd4e32c444a0856261a58e341626e4ce5b081bf808ecb"
+    },
+    {
+      "id": "user_demo_3",
+      "name": "Nour Ali",
+      "email": "demo3@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-11-06T19:45:53.223Z",
+      "demo": true,
+      "passwordSalt": "4e5808538bc2601edf66720e335fc179",
+      "passwordHash": "1ca64ba8be422aa9595947ffbc0afa22fcfd095266c01e244185cdc3afd18420c58ba11da3f82be4958b2dccea6e788c116d33d0df2ca1400bf7e969c17bf94c"
+    },
+    {
+      "id": "user_demo_4",
+      "name": "Mina Salah",
+      "email": "demo4@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-12-07T19:45:53.274Z",
+      "demo": true,
+      "passwordSalt": "9af6bd456be97da1881ff27c831ed4ea",
+      "passwordHash": "70ef670c8971d303595f024ffbbd02ec0d0fd6fd201fca9540a76e87308197bac44da28f7603d0043f78821ec3dbfe3016e2b7db08f33e1a1af393c4c1225f69"
+    },
+    {
+      "id": "user_demo_5",
+      "name": "Layla Fathy",
+      "email": "demo5@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-12-08T19:45:53.323Z",
+      "demo": true,
+      "passwordSalt": "a94c1400f0b1b1e08ae73bdb9b4af1db",
+      "passwordHash": "b7d48822883ac370c0194d222438f5fbbec40ad2db31970531eeb6707d6c398d6b957e95c989017fd8d1bc441437170e9f61f253111f1b6a27262609eaefc51a"
+    },
+    {
+      "id": "user_demo_6",
+      "name": "Youssef Hassan",
+      "email": "demo6@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2025-12-09T19:45:53.365Z",
+      "demo": true,
+      "passwordSalt": "03e28635be03ba94b72549239818a06c",
+      "passwordHash": "ef67aaad5c4044b86c1157fd9c63135b0c5bcc8468649d76fb9bec34cb64830f93fbbb6bbc87194f6d34e1eb625ace30377aa374aa3dc39ec3afdbb92724fea1"
+    },
+    {
+      "id": "user_demo_7",
+      "name": "Mariam Hussein",
+      "email": "demo7@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-01-10T19:45:53.410Z",
+      "demo": true,
+      "passwordSalt": "93a4f7814e04aa80c8fec929dd50a9a5",
+      "passwordHash": "c7a6aae7d5918f8e7faa377bce8d8c2962e357c020eb1c184cbce07bded0debb2a35f64055f5334a8cce8443ca664e4a5d853a58087026d94211e5e87ae9e734"
+    },
+    {
+      "id": "user_demo_8",
+      "name": "Karim Mohamed",
+      "email": "demo8@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-01-11T19:45:53.455Z",
+      "demo": true,
+      "passwordSalt": "381b975cf883b4fc86ce645053ed3bfb",
+      "passwordHash": "bddbf3138e20d317940da0aef8749c8dda337adc79d42af4760000b2ab93f8f0db54a91693ea562b6b8e21c322ae93c22309c4bf5a428222ce0a1e6475e22f6d"
+    },
+    {
+      "id": "user_demo_9",
+      "name": "Hana Ibrahim",
+      "email": "demo9@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-01-12T19:45:53.501Z",
+      "demo": true,
+      "passwordSalt": "316662f9f5beee0e2de0f3570b84df27",
+      "passwordHash": "bc8acad7df8d4a31ae1986d1e744c20a4e4084a466ca88d356486655c16f6b7badd7846857558f694419bb1ffe41c487a32d71785c5fd7c18af0bbcaf6be0f56"
+    },
+    {
+      "id": "user_demo_10",
+      "name": "Ali Mahmoud",
+      "email": "demo10@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-01-13T19:45:53.546Z",
+      "demo": true,
+      "passwordSalt": "9d3a7617e90caa18d30a6dce731f27dd",
+      "passwordHash": "b1eead16535e659faf4c20b37960ffe4b4099dc28ae6379718d570b76ce63f95345c0c4c50d81f8c85625a0b859fbe7e22e9403d22b1f6f549c71d9a69b7cb78"
+    },
+    {
+      "id": "user_demo_11",
+      "name": "Salma Ali",
+      "email": "demo11@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-02-14T19:45:53.586Z",
+      "demo": true,
+      "passwordSalt": "763f829155dd7836f0933836384e8a22",
+      "passwordHash": "b3e2940d1276c2d647cd167cb0ef910aabd45716255eacf579a31cdcaeb9806978ffb3bc44b422013d4c8fbfe035c2d5aafb378b0d1188f4748542c6d03620ff"
+    },
+    {
+      "id": "user_demo_12",
+      "name": "Tarek Salah",
+      "email": "demo12@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-02-15T19:45:53.626Z",
+      "demo": true,
+      "passwordSalt": "f8780fce661dcf8e61a4ba8380595e28",
+      "passwordHash": "cd0c48bd5d0d5c49c505f053924886b1cbb5c28326128ecb1787513d828d182ee10c37cafe743e2b225aafe921ec479fd91e2f6eed62f4d278a5c6d2251bc864"
+    },
+    {
+      "id": "user_demo_13",
+      "name": "Dina Fathy",
+      "email": "demo13@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-02-16T19:45:53.666Z",
+      "demo": true,
+      "passwordSalt": "6a955081435edcc475d1a5e6daa45d69",
+      "passwordHash": "8cf5654cdc202a3d290e9a4efede81e5ec8ca39eb121d867ea94e659b75ca651d375e0a414227dbf9ad36c1638e3dfb848bab569bcf65e8c234a97d4f7870d84"
+    },
+    {
+      "id": "user_demo_14",
+      "name": "Mostafa Hassan",
+      "email": "demo14@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-03-17T19:45:53.706Z",
+      "demo": true,
+      "passwordSalt": "ad18dcb5657962c988d24b71bc17b962",
+      "passwordHash": "a017575b07513bdae7c0f7a2db95f67d9b6db33b9b7c7e360ef4f89c5aec5622cb466c67faba2d37a5538666a5577705fd4b8485482096f366e9f87b80db13f5"
+    },
+    {
+      "id": "user_demo_15",
+      "name": "Rana Hussein",
+      "email": "demo15@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-03-18T19:45:53.746Z",
+      "demo": true,
+      "passwordSalt": "029f9e44ce72a19f3257256e8f626fd2",
+      "passwordHash": "4a480aa1a6ba9d84aff127d1d0120df2f47df5a5f43e7f2c35d7e4ab0169f4a5c88c0d6eea7fc1c569350cec814795cbaa3521b557efcad5b70d33b962d19c59"
+    },
+    {
+      "id": "user_demo_16",
+      "name": "Hassan Mohamed",
+      "email": "demo16@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-03-19T19:45:53.785Z",
+      "demo": true,
+      "passwordSalt": "3f836e507f4f8b84597e7f3dd436238e",
+      "passwordHash": "d89de836c29ea5a30dd4879eab525dd4ace71b5397fe33a04f0057ff7b54b3f5b58ef599c02a366ac99b70940ba0e59deaca63f4ab27daa9caf7b7801b383b4c"
+    },
+    {
+      "id": "user_demo_17",
+      "name": "Yara Ibrahim",
+      "email": "demo17@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-04-20T19:45:53.825Z",
+      "demo": true,
+      "passwordSalt": "26d4a28a6eddf51dca0c663a12141e72",
+      "passwordHash": "250dee1803edf1873dddea50247fb4ef1031ca3c959e73cdcb750bf1ac4461ecbe13b6728c6fe91d61b6bf64ba9cda0f9201d49643361c3caf64b09008be1678"
+    },
+    {
+      "id": "user_demo_18",
+      "name": "Adel Mahmoud",
+      "email": "demo18@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-04-03T19:45:53.864Z",
+      "demo": true,
+      "passwordSalt": "faf92ae44d55f7b3c4b14ab674171ae7",
+      "passwordHash": "4c5f7890e557fcd7a295cd1774d9f689955d5f98258c783769594cc3ce0430caa61b65e20fb5649d60706c053b172ce1597ab9c964984eaf1d507997b0432e12"
+    },
+    {
+      "id": "user_demo_19",
+      "name": "Farah Ali",
+      "email": "demo19@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-04-04T19:45:53.905Z",
+      "demo": true,
+      "passwordSalt": "e8733168e595d2638d9206c10f195521",
+      "passwordHash": "d3bb2cf625b1de81cbf2fdeb636116944df29aff5415c9f34bdae67f7685035d9026887e39d3c752e5f25cbd3d7487a6bfa61539f205e73cd02a56b035179025"
+    },
+    {
+      "id": "user_demo_20",
+      "name": "Ziad Salah",
+      "email": "demo20@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-04-05T19:45:53.945Z",
+      "demo": true,
+      "passwordSalt": "fa3e7b86dd47f12686c19bd195e5b01e",
+      "passwordHash": "6c654411c7ae8a2955de10fe1893612cdd54cf42f6912f888558a7b28f92649883ef66a88afa5c9d3cc92521639195e591f09c68511d88588fbe8b96965f8260"
+    },
+    {
+      "id": "user_demo_21",
+      "name": "Mona Fathy",
+      "email": "demo21@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-05-06T19:45:53.985Z",
+      "demo": true,
+      "passwordSalt": "8b07fb6090856e8a04b0b51f4d5bba4c",
+      "passwordHash": "9031b5226b0ccc5416f95b6cb669218a66824be0a6f473b92bd8c63afa67cb369f6dea6aa884cb36dad21c21160944a4f8cac76ccb2b32d0dcd09bddf7e6c5c3"
+    },
+    {
+      "id": "user_demo_22",
+      "name": "Sami Hassan",
+      "email": "demo22@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-05-07T19:45:54.023Z",
+      "demo": true,
+      "passwordSalt": "53600b11cfb79f55053bbc514232191a",
+      "passwordHash": "59042f637bd44b73f315be1eef885e8c9cdef378cfcddfff1a2414bfdbd12e0f46f8682dd986eb062fadd91b0129c81156b3ce09069e70a2c9e7d1ca031600c3"
+    },
+    {
+      "id": "user_demo_23",
+      "name": "Noha Hussein",
+      "email": "demo23@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-05-08T19:45:54.061Z",
+      "demo": true,
+      "passwordSalt": "c0c4701637e16190237171252b0d57a0",
+      "passwordHash": "83389fa886f27d67466fefa3cf877f2c27e142116fb60bff59885903481ea22b684114dc33fdfb20384106ac6d51833bd9ae4cf879215d49013bff88569beb8a"
+    },
+    {
+      "id": "user_demo_24",
+      "name": "Ahmed Mohamed",
+      "email": "demo24@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-06-09T19:45:54.100Z",
+      "demo": true,
+      "passwordSalt": "19ef0a823519ae58b99954b67287cd20",
+      "passwordHash": "009565b25285eaf2ef732ca765d2118dc97d50e657a74dc52307c33f0ff180ea48557972d81171fba92f645d08af806b219b32e742956c82471f349ec005c386"
+    },
+    {
+      "id": "user_demo_25",
+      "name": "Sara Ibrahim",
+      "email": "demo25@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-06-10T19:45:54.140Z",
+      "demo": true,
+      "passwordSalt": "695fcc690ad9d08b66e1f7e67d08c629",
+      "passwordHash": "eada512ba55ceacffe041c34cd1d44ca121a1575d848b668efa5750395999b9af38753a93ae1454cf99dc60c27870142582b90bea650031349fb6aa0e7124163"
+    },
+    {
+      "id": "user_demo_26",
+      "name": "Omar Mahmoud",
+      "email": "demo26@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-06-11T19:45:54.180Z",
+      "demo": true,
+      "passwordSalt": "29e85598499d1bd8d626cea3400aae3f",
+      "passwordHash": "ef2d01fd41a7477444dea3e32664911b2ab67c464b63d8fb9697e7ad2ed65a176c029ee5bd68d34a5495ab70ff01e2330393a1b152c84e09f5ac3cf81b9aef0a"
+    },
+    {
+      "id": "user_demo_27",
+      "name": "Nour Ali",
+      "email": "demo27@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-06-12T19:45:54.219Z",
+      "demo": true,
+      "passwordSalt": "0e0e715b53cd392707c271a834ae9576",
+      "passwordHash": "776cffc91fc879e5431a03d394525c4273cfba0b87b8ef47d99940d9e0bd2ab78a73462c2a1893daa663f2006c646a5775038e24200566d7cbf39ef0f3425d72"
+    },
+    {
+      "id": "user_demo_28",
+      "name": "Mina Salah",
+      "email": "demo28@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-07-13T19:45:54.259Z",
+      "demo": true,
+      "passwordSalt": "888aa4654c4caad018893d3eeb5b6aa4",
+      "passwordHash": "83f411961ba7f06eade1bad12a583a22b63a2f50902697ff6466016911bd87b7d85f12fe2e6447db165920adb9191eae2865ee0ba92f3876c42dc4f036086d63"
+    },
+    {
+      "id": "user_demo_29",
+      "name": "Layla Fathy",
+      "email": "demo29@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-07-14T19:45:54.299Z",
+      "demo": true,
+      "passwordSalt": "278bdb5b17ac63ceb6df6d1cdbf74fae",
+      "passwordHash": "f15469b32faff5f1687e45447a59ce7e683015a63d962457796cda0b09c34eb3f51777d38d4ba443bb4b6c3a65e072eba23ca8a026aa917541daf236d678cf35"
+    },
+    {
+      "id": "user_demo_30",
+      "name": "Youssef Hassan",
+      "email": "demo30@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-07-15T19:45:54.338Z",
+      "demo": true,
+      "passwordSalt": "f7f2ec2fa3606774a570e362d9d136d2",
+      "passwordHash": "d627feddc80c75d79deb8cf6aeb1598f19ab084a6addde62f68f481269a1e9c45c72b8b9d3708b218844eb17b9f2b81b594b3cabb435873b23bec8cd82bf8fe5"
+    },
+    {
+      "id": "user_demo_31",
+      "name": "Mariam Hussein",
+      "email": "demo31@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-08-16T19:45:54.378Z",
+      "demo": true,
+      "passwordSalt": "7af97e6290c5096664f727f7fdbf385b",
+      "passwordHash": "3f0917316545b31ccc096cab3e63f8ab56fd649ca04ba6cb20c0fc52e70a75e603a876fa48a0712001057b4d72b2eb5a391f01b3ec4b47951704d8f7b3398b60"
+    },
+    {
+      "id": "user_demo_32",
+      "name": "Karim Mohamed",
+      "email": "demo32@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-08-17T19:45:54.419Z",
+      "demo": true,
+      "passwordSalt": "51bfe587eaf219e43ec9a47f9e6bf3b5",
+      "passwordHash": "425173ebf99ca30917f53e22a50c85c69afd2accd9a50d44260be6af59009c6d32bbf22c46a6f4221e60336293ab13d0bb470119a13fd65c383f55f212b0f21a"
+    },
+    {
+      "id": "user_demo_33",
+      "name": "Hana Ibrahim",
+      "email": "demo33@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-08-18T19:45:54.459Z",
+      "demo": true,
+      "passwordSalt": "0200bd6943da82e98b194372144c6a12",
+      "passwordHash": "0c58a97d26d1388636b9a706355a885bacb5096d67b327e4a3382d17c4a83a1eda6f028df6542470892671e00fcc8968b9ccd3675ef3b7db19481ba114f011f4"
+    },
+    {
+      "id": "user_demo_34",
+      "name": "Ali Mahmoud",
+      "email": "demo34@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-09-19T19:45:54.501Z",
+      "demo": true,
+      "passwordSalt": "b7156f2f9ab2d3823c60606c908aa010",
+      "passwordHash": "ed57252e2b66ceb758fb6fcbdc7acc94947b877900cc985c1687d100aae5bfce2bbee782b130fdcad09e75e2495afc10faba93ba5c5a063e3748bf79685b1064"
+    },
+    {
+      "id": "user_demo_35",
+      "name": "Salma Ali",
+      "email": "demo35@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-09-20T19:45:54.653Z",
+      "demo": true,
+      "passwordSalt": "8a6285ead33f06cc287c682567f147f8",
+      "passwordHash": "c9a69b8acdb8ddfa781ca25cf3f1a018bb3514cdd61ae527d6a6c814963e3b115c5d5db8473c46def9971c6478141acde274921407dfe8379dd689e2b5badffe"
+    },
+    {
+      "id": "user_demo_36",
+      "name": "Tarek Salah",
+      "email": "demo36@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-09-03T19:45:54.772Z",
+      "demo": true,
+      "passwordSalt": "f4df20c701e0cc4eaad5cd2bb9c8969c",
+      "passwordHash": "fdf8f2d539d054b5edeffae91133e178d4c968de0efef4ce7b48381438079bb39c6694523a8d361bbb0ea347b43ea5dfcf01cf299dce5dad61c4fc22d467f994"
+    },
+    {
+      "id": "user_demo_37",
+      "name": "Dina Fathy",
+      "email": "demo37@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-09-04T19:45:54.846Z",
+      "demo": true,
+      "passwordSalt": "bed7f9be372c7297f85d28f102366aac",
+      "passwordHash": "848b1f596390d62d90b89e6560504edfe0742be4bc22843f4e91d7153d258eb19ca95df12b622285b5cdb4b76d37f6b081648179c5068a1c5b0ae6ed6a974e94"
+    },
+    {
+      "id": "user_demo_38",
+      "name": "Mostafa Hassan",
+      "email": "demo38@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-10-05T19:45:54.920Z",
+      "demo": true,
+      "passwordSalt": "05bb0150e09de8ecb4d97116ace283cd",
+      "passwordHash": "ef91a413a9b136326c51dc5ca23da3345b9b2303c7350348e8bcfd83132f4db84f212fec0f3460613d4afea6dab97b26a37d9873098c29224789da91bac5ecf8"
+    },
+    {
+      "id": "user_demo_39",
+      "name": "Rana Hussein",
+      "email": "demo39@example.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-10-06T19:45:54.988Z",
+      "demo": true,
+      "passwordSalt": "add87dd1a714a867678f502ef341a610",
+      "passwordHash": "f5b2c08f3c6cea10ded183af17820fd69354c62da477628114b61667d3119d78c38300af8857f087574fd134d163593f029f6bfd9d56d98b8685dfd70eb6b7ff"
+    },
+    {
+      "id": "user_36ea68bbbfcf",
+      "name": "Doaa Salah",
+      "email": "frogdoaa2042003@gmail.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-10-26T19:48:56.074Z",
+      "passwordSalt": "2bad2de99a1dc9edb83d93a99d775da6",
+      "passwordHash": "cb080aa7d896e30653e2748bb54f1c6ac046bc8556e2eff9ef912ecf610bbfc026afa9555ff518225d651205500104433ac2a8f5cb5200d899bf7cf798540e4a"
+    },
+    {
+      "id": "user_d02a8cc6db02",
+      "name": "Doaa Salah",
+      "email": "frog2042003@gmail.com",
+      "role": "student",
+      "status": "active",
+      "bio": "",
+      "avatar": "",
+      "phone": "",
+      "createdAt": "2026-10-30T19:48:17.356Z",
+      "passwordSalt": "720cc87894d13422cac3d0722f177ec4",
+      "passwordHash": "ecbe4edf5763ed8a470bcb66ef7f2b4fc9a4b4eb1af0da8c468984346d433e439530e37a6f9da26104441448845c24871953b9e6f1acd5a4725fb557d86352c1"
+    }
+  ],
+  "instructors": [
+    {
+      "id": "ins_sarah",
+      "name": "Dr. Sarah Ahmed",
+      "title": "Web Development Instructor",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Dr. Sarah Ahmed is a passionate web development instructor with over 5 years of experience teaching modern web technologies. She has helped thousands of students build their skills and start successful careers.",
+      "expertise": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Web Design"
+      ],
+      "experience": 5,
+      "baseRating": 4.9,
+      "baseReviews": 2160,
+      "baseStudents": 12000,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.975Z"
+    },
+    {
+      "id": "ins_ahmed",
+      "name": "Ahmed Khaled",
+      "title": "Data Science & Frontend",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "bio": "Ahmed is a software engineer who loves turning data and interfaces into products people enjoy using. He teaches React, Python and data analysis with a practical, project-first approach.",
+      "expertise": [
+        "React",
+        "Python",
+        "Data Analysis",
+        "TypeScript"
+      ],
+      "experience": 6,
+      "baseRating": 4.8,
+      "baseReviews": 1380,
+      "baseStudents": 8200,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.976Z"
+    },
+    {
+      "id": "ins_nour",
+      "name": "Nour Emad",
+      "title": "Digital Marketing Instructor",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "bio": "Nour has run marketing campaigns for startups and global brands, and now teaches how to plan, launch and measure digital marketing that works.",
+      "expertise": [
+        "SEO",
+        "Social Media",
+        "Content",
+        "Analytics"
+      ],
+      "experience": 7,
+      "baseRating": 4.7,
+      "baseReviews": 1500,
+      "baseStudents": 9600,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.976Z"
+    },
+    {
+      "id": "ins_omar",
+      "name": "Omar Ali",
+      "title": "Mobile App Developer",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "bio": "Omar builds cross-platform mobile apps and teaches beginners how to ship their first app to the stores.",
+      "expertise": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "JavaScript"
+      ],
+      "experience": 5,
+      "baseRating": 4.7,
+      "baseReviews": 1300,
+      "baseStudents": 7100,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.976Z"
+    },
+    {
+      "id": "ins_sara",
+      "name": "Sara Mohamed",
+      "title": "UI/UX Designer",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "bio": "Sara is a product designer who teaches design thinking, wireframing and modern interface design with Figma.",
+      "expertise": [
+        "Figma",
+        "UI Design",
+        "UX Research",
+        "Prototyping"
+      ],
+      "experience": 6,
+      "baseRating": 4.8,
+      "baseReviews": 940,
+      "baseStudents": 6300,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.976Z"
+    },
+    {
+      "id": "ins_mina",
+      "name": "Mina Ashraf",
+      "title": "Business & Analytics",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg",
+      "bio": "Mina helps professionals make better decisions with data, from spreadsheets to Python and business analytics.",
+      "expertise": [
+        "Python",
+        "Analytics",
+        "Business",
+        "Excel"
+      ],
+      "experience": 8,
+      "baseRating": 4.6,
+      "baseReviews": 880,
+      "baseStudents": 5400,
+      "followers": [],
+      "createdAt": "2025-08-10T19:45:52.976Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "course_web_bootcamp",
+      "title": "Complete Web Development Bootcamp",
+      "category": "Programming",
+      "level": "Beginner",
+      "price": 49,
+      "oldPrice": 99,
+      "instructorId": "ins_sarah",
+      "duration": "12 hours",
+      "language": "English",
+      "description": "Learn HTML, CSS, JavaScript, React and build real-world projects from scratch.",
+      "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.9,
+      "baseReviews": 2300,
+      "baseStudents": 12450,
+      "learn": [
+        "Build modern responsive websites",
+        "Master HTML, CSS and JavaScript",
+        "Learn React from scratch",
+        "Get hands-on practice",
+        "Create a portfolio"
+      ],
+      "sections": [
+        {
+          "id": "sec_e3ae92f81754",
+          "title": "Section 1: Introduction",
+          "lessons": [
+            {
+              "id": "lesson_bbaf51195466",
+              "title": "Welcome to the course",
+              "duration": "5:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_53e124c245b3",
+              "title": "What is web development",
+              "duration": "8:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_bafc2951492e",
+              "title": "Tools and setup",
+              "duration": "6:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_caf3f93a4905",
+              "title": "Your first web page",
+              "duration": "7:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_d52ee3db9622",
+          "title": "Section 2: HTML Basics",
+          "lessons": [
+            {
+              "id": "lesson_f2880e43a406",
+              "title": "HTML elements",
+              "duration": "10:25",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_3913f4a2dced",
+              "title": "Text formatting",
+              "duration": "8:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_5a33547582af",
+              "title": "Links and images",
+              "duration": "9:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_11f7fd4993f2",
+              "title": "Practice project",
+              "duration": "12:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_7c38c251b893",
+          "title": "Section 3: CSS Fundamentals",
+          "lessons": [
+            {
+              "id": "lesson_953b76853b43",
+              "title": "Selectors and properties",
+              "duration": "11:05",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_65bbeb4cb264",
+              "title": "Flexbox layout",
+              "duration": "13:45",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_4affcc40757b",
+              "title": "Responsive design",
+              "duration": "12:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_uiux",
+      "title": "UI/UX Design Complete Guide",
+      "category": "Design",
+      "level": "Intermediate",
+      "price": 39,
+      "oldPrice": 79,
+      "instructorId": "ins_sara",
+      "duration": "8 hours",
+      "language": "English",
+      "description": "Learn user research, wireframing and visual design, then prototype real apps in Figma.",
+      "thumbnail": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.8,
+      "baseReviews": 1200,
+      "baseStudents": 9400,
+      "learn": [
+        "Understand design thinking",
+        "Create wireframes and prototypes",
+        "Design clean modern interfaces",
+        "Run quick usability tests"
+      ],
+      "sections": [
+        {
+          "id": "sec_e6cf680a6d61",
+          "title": "Section 1: Design Foundations",
+          "lessons": [
+            {
+              "id": "lesson_d65416148512",
+              "title": "What is UI/UX",
+              "duration": "6:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_148c465107c3",
+              "title": "Design thinking",
+              "duration": "9:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_389285029735",
+              "title": "User research basics",
+              "duration": "11:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_5a37c258c813",
+          "title": "Section 2: Figma in Practice",
+          "lessons": [
+            {
+              "id": "lesson_ace50c304570",
+              "title": "Figma interface",
+              "duration": "8:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_298227ed77ca",
+              "title": "Components and styles",
+              "duration": "12:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_e7b4c4f79396",
+              "title": "Prototyping",
+              "duration": "10:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_js",
+      "title": "JavaScript for Beginners",
+      "category": "Programming",
+      "level": "Beginner",
+      "price": 29,
+      "oldPrice": 59,
+      "instructorId": "ins_omar",
+      "duration": "6 hours",
+      "language": "English",
+      "description": "Understand JavaScript fundamentals and start building interactive experiences.",
+      "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.7,
+      "baseReviews": 980,
+      "baseStudents": 7600,
+      "learn": [
+        "Variables, functions and loops",
+        "Work with the DOM",
+        "Handle events and forms",
+        "Fetch data from APIs"
+      ],
+      "sections": [
+        {
+          "id": "sec_1b15f4587dd6",
+          "title": "Section 1: Getting Started",
+          "lessons": [
+            {
+              "id": "lesson_91a0df64e14f",
+              "title": "Hello JavaScript",
+              "duration": "5:45",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_b847c5116da3",
+              "title": "Variables and types",
+              "duration": "9:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_359965a859b4",
+              "title": "Functions",
+              "duration": "10:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_a5d8adb567a8",
+          "title": "Section 2: The DOM",
+          "lessons": [
+            {
+              "id": "lesson_4234bfc549ec",
+              "title": "Selecting elements",
+              "duration": "8:50",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_f655a7c78fe8",
+              "title": "Events",
+              "duration": "9:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_fe13e3fbc28b",
+              "title": "Mini project: To-do list",
+              "duration": "14:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_marketing",
+      "title": "Digital Marketing Strategy",
+      "category": "Marketing",
+      "level": "Intermediate",
+      "price": 45,
+      "oldPrice": 90,
+      "instructorId": "ins_nour",
+      "duration": "10 hours",
+      "language": "English",
+      "description": "Plan and measure campaigns across SEO, social media, email and paid ads.",
+      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.7,
+      "baseReviews": 1100,
+      "baseStudents": 6200,
+      "learn": [
+        "Build a marketing funnel",
+        "Do keyword research and SEO",
+        "Run social media campaigns",
+        "Measure results with analytics"
+      ],
+      "sections": [
+        {
+          "id": "sec_0f8b8231eb96",
+          "title": "Section 1: Strategy",
+          "lessons": [
+            {
+              "id": "lesson_9b3e76e51b44",
+              "title": "Marketing basics",
+              "duration": "7:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_87be0f21ab39",
+              "title": "Know your audience",
+              "duration": "9:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_b091e9ad123e",
+              "title": "Channels overview",
+              "duration": "8:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_caf9f17ae609",
+          "title": "Section 2: Execution",
+          "lessons": [
+            {
+              "id": "lesson_b5e24b8053a4",
+              "title": "SEO essentials",
+              "duration": "12:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_09b4db162908",
+              "title": "Social media content",
+              "duration": "10:05",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_d7696a96c052",
+              "title": "Measuring success",
+              "duration": "9:45",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_react",
+      "title": "React.js Advanced Concepts",
+      "category": "Programming",
+      "level": "Advanced",
+      "price": 45,
+      "oldPrice": 89,
+      "instructorId": "ins_ahmed",
+      "duration": "10 hours",
+      "language": "English",
+      "description": "Hooks, context, performance and architecture patterns for production React apps.",
+      "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.8,
+      "baseReviews": 760,
+      "baseStudents": 5100,
+      "learn": [
+        "Master hooks and custom hooks",
+        "Manage state with context",
+        "Optimise rendering performance",
+        "Structure large applications"
+      ],
+      "sections": [
+        {
+          "id": "sec_a466e4ef7add",
+          "title": "Section 1: Hooks Deep Dive",
+          "lessons": [
+            {
+              "id": "lesson_9f13e6452639",
+              "title": "useState and useReducer",
+              "duration": "11:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_b6632447a8d7",
+              "title": "useEffect patterns",
+              "duration": "12:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_a14ed98bbceb",
+              "title": "Custom hooks",
+              "duration": "10:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_cd188e63a15c",
+          "title": "Section 2: Architecture",
+          "lessons": [
+            {
+              "id": "lesson_e205c34cbb34",
+              "title": "Context API",
+              "duration": "9:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_2f73800bed3d",
+              "title": "Performance tuning",
+              "duration": "13:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_e40ea62cad0c",
+              "title": "Project structure",
+              "duration": "8:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_python_ds",
+      "title": "Python for Data Science",
+      "category": "Data Science",
+      "level": "Beginner",
+      "price": 49,
+      "oldPrice": 99,
+      "instructorId": "ins_mina",
+      "duration": "12 hours",
+      "language": "English",
+      "description": "Learn Python, NumPy, pandas and data visualisation by analysing real datasets.",
+      "thumbnail": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.8,
+      "baseReviews": 890,
+      "baseStudents": 5800,
+      "learn": [
+        "Python fundamentals",
+        "Analyse data with pandas",
+        "Visualise data with charts",
+        "Tell stories with data"
+      ],
+      "sections": [
+        {
+          "id": "sec_a348f32294dd",
+          "title": "Section 1: Python Basics",
+          "lessons": [
+            {
+              "id": "lesson_4967ececb7a2",
+              "title": "Python setup",
+              "duration": "6:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_8ca47c59e17c",
+              "title": "Data types",
+              "duration": "9:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_112b6c04fbc4",
+              "title": "Loops and functions",
+              "duration": "11:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_fcb5ea1ede2c",
+          "title": "Section 2: Data Analysis",
+          "lessons": [
+            {
+              "id": "lesson_5bcd79d41857",
+              "title": "NumPy arrays",
+              "duration": "10:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_62909874ed15",
+              "title": "pandas DataFrames",
+              "duration": "14:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_4aaf98fb2937",
+              "title": "Plotting",
+              "duration": "9:50",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_flutter",
+      "title": "Mobile App Development with Flutter",
+      "category": "Programming",
+      "level": "Intermediate",
+      "price": 55,
+      "oldPrice": 110,
+      "instructorId": "ins_omar",
+      "duration": "14 hours",
+      "language": "English",
+      "description": "Build beautiful cross-platform mobile apps with Flutter and Dart.",
+      "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.7,
+      "baseReviews": 640,
+      "baseStudents": 3900,
+      "learn": [
+        "Dart language essentials",
+        "Flutter widgets and layouts",
+        "Navigation and state",
+        "Publish your first app"
+      ],
+      "sections": [
+        {
+          "id": "sec_fb15b8879783",
+          "title": "Section 1: Dart & Flutter",
+          "lessons": [
+            {
+              "id": "lesson_faa25fb756cd",
+              "title": "Dart basics",
+              "duration": "8:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_88e5f2557038",
+              "title": "Your first widget",
+              "duration": "9:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_02cd0be8613c",
+              "title": "Layouts",
+              "duration": "11:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_9f16696a9441",
+          "title": "Section 2: Building the App",
+          "lessons": [
+            {
+              "id": "lesson_94655d59918c",
+              "title": "Navigation",
+              "duration": "10:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_c43c076c8b32",
+              "title": "State management",
+              "duration": "12:45",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_926d9057dc23",
+              "title": "Publishing",
+              "duration": "7:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_business",
+      "title": "Business Analytics Essentials",
+      "category": "Business",
+      "level": "Beginner",
+      "price": 35,
+      "oldPrice": 70,
+      "instructorId": "ins_mina",
+      "duration": "7 hours",
+      "language": "English",
+      "description": "Make better business decisions with spreadsheets, dashboards and simple statistics.",
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.6,
+      "baseReviews": 520,
+      "baseStudents": 3300,
+      "learn": [
+        "Ask the right business questions",
+        "Clean and summarise data",
+        "Build clear dashboards",
+        "Present insights"
+      ],
+      "sections": [
+        {
+          "id": "sec_fcc3ec9c821f",
+          "title": "Section 1: Foundations",
+          "lessons": [
+            {
+              "id": "lesson_abbc92d208dc",
+              "title": "Why analytics",
+              "duration": "6:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_b9f2cdba2a08",
+              "title": "Key metrics",
+              "duration": "8:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_aa81bc92fa0e",
+              "title": "Spreadsheet skills",
+              "duration": "10:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_7080e302b643",
+          "title": "Section 2: Dashboards",
+          "lessons": [
+            {
+              "id": "lesson_0fb3a3d37e8d",
+              "title": "Charts that work",
+              "duration": "9:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_76a558f08031",
+              "title": "Building a dashboard",
+              "duration": "12:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            },
+            {
+              "id": "lesson_068bf78a36b9",
+              "title": "Presenting insights",
+              "duration": "7:45",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    },
+    {
+      "id": "course_html_css",
+      "title": "HTML & CSS from Zero",
+      "category": "Programming",
+      "level": "Beginner",
+      "price": 0,
+      "oldPrice": 0,
+      "instructorId": "ins_sarah",
+      "duration": "6 hours",
+      "language": "English",
+      "description": "A free course: build and style your first web pages step by step.",
+      "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=900&q=80",
+      "baseRating": 4.8,
+      "baseReviews": 1900,
+      "baseStudents": 15200,
+      "learn": [
+        "Structure pages with HTML",
+        "Style with CSS",
+        "Use flexbox and grid",
+        "Publish your first site"
+      ],
+      "sections": [
+        {
+          "id": "sec_ce1683502b86",
+          "title": "Section 1: HTML",
+          "lessons": [
+            {
+              "id": "lesson_51edd82e08a8",
+              "title": "Introduction to HTML",
+              "duration": "6:10",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_9cd8970b11c6",
+              "title": "Headings and paragraphs",
+              "duration": "7:00",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            },
+            {
+              "id": "lesson_e5b76f0ee763",
+              "title": "Lists and links",
+              "duration": "8:15",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "sec_b515e0b73807",
+          "title": "Section 2: CSS",
+          "lessons": [
+            {
+              "id": "lesson_d2934e90da26",
+              "title": "Introduction to CSS",
+              "duration": "7:40",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "id": "lesson_135e8504df19",
+              "title": "Colors and fonts",
+              "duration": "8:20",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "id": "lesson_817c87e05661",
+              "title": "Flexbox",
+              "duration": "10:30",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        }
+      ],
+      "published": true,
+      "createdAt": "2025-10-10T19:45:52.977Z",
+      "updatedAt": "2026-09-10T19:45:52.977Z"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz_7345b86e09cf",
+      "courseId": "course_html_css",
+      "title": "HTML & CSS Quiz",
+      "durationMinutes": 10,
+      "passingScore": 70,
+      "questions": [
+        {
+          "id": "q_b94b54b3c394",
+          "question": "Which tag holds the visible page content?",
+          "options": [
+            "<head>",
+            "<body>",
+            "<main>",
+            "<html>"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q_d093f7b4d4fc",
+          "question": "Which CSS property sets the space inside an element?",
+          "options": [
+            "margin",
+            "padding",
+            "border",
+            "gap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q_4d1d352dec42",
+          "question": "How do you select an element with id 'hero' in CSS?",
+          "options": [
+            ".hero",
+            "#hero",
+            "hero",
+            "*hero"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q_caf450c9c868",
+          "question": "Which value makes an element a flex container?",
+          "options": [
+            "display: flex",
+            "position: flex",
+            "flex: container",
+            "float: flex"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "q_96a755d5702b",
+          "question": "Which tag creates a line break?",
+          "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<hr>"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "createdAt": "2026-04-10T19:45:52.977Z"
+    },
+    {
+      "id": "quiz_9c5cd1344ac0",
+      "courseId": "course_react",
+      "title": "React Concepts Quiz",
+      "durationMinutes": 10,
+      "passingScore": 70,
+      "questions": [
+        {
+          "id": "q_83e052db2eea",
+          "question": "Which hook is used to manage component state?",
+          "options": [
+            "useEffect",
+            "useState",
+            "useMemo",
+            "useRef"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q_4c9ecc95744f",
+          "question": "Which hook runs side effects?",
+          "options": [
+            "useEffect",
+            "useState",
+            "useId",
+            "useReducer"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": "q_255f836bf9f1",
+          "question": "What is used to pass data to child components?",
+          "options": [
+            "state",
+            "props",
+            "refs",
+            "keys"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q_b2a7fffa5000",
+          "question": "Why do list items need a key?",
+          "options": [
+            "Styling",
+            "Routing",
+            "Efficient re-rendering",
+            "Accessibility"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "q_e85f2b6419f0",
+          "question": "Which hook avoids recalculating an expensive value?",
+          "options": [
+            "useMemo",
+            "useLayoutEffect",
+            "useDebugValue",
+            "useId"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "createdAt": "2026-04-10T19:45:52.977Z"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "enr_4f7bc7f2db8f",
+      "userId": "user_demo_0",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2025-11-03T19:45:53.068Z"
+    },
+    {
+      "id": "enr_363b771a4323",
+      "userId": "user_demo_1",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2025-11-04T19:45:53.122Z"
+    },
+    {
+      "id": "enr_26c24b69236a",
+      "userId": "user_demo_2",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2025-11-05T19:45:53.168Z"
+    },
+    {
+      "id": "enr_d926a7874680",
+      "userId": "user_demo_3",
+      "courseId": "course_react",
+      "status": "active",
+      "enrolledAt": "2025-11-06T19:45:53.223Z"
+    },
+    {
+      "id": "enr_b897fc7a7247",
+      "userId": "user_demo_4",
+      "courseId": "course_react",
+      "status": "active",
+      "enrolledAt": "2025-12-07T19:45:53.274Z"
+    },
+    {
+      "id": "enr_f3025eff3575",
+      "userId": "user_demo_5",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2025-12-08T19:45:53.323Z"
+    },
+    {
+      "id": "enr_c38fd631d2db",
+      "userId": "user_demo_6",
+      "courseId": "course_business",
+      "status": "active",
+      "enrolledAt": "2025-12-09T19:45:53.365Z"
+    },
+    {
+      "id": "enr_9b360d73091e",
+      "userId": "user_demo_7",
+      "courseId": "course_business",
+      "status": "active",
+      "enrolledAt": "2026-01-10T19:45:53.410Z"
+    },
+    {
+      "id": "enr_01048cead6c0",
+      "userId": "user_demo_8",
+      "courseId": "course_web_bootcamp",
+      "status": "active",
+      "enrolledAt": "2026-01-11T19:45:53.455Z"
+    },
+    {
+      "id": "enr_3049a8105d5e",
+      "userId": "user_demo_9",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2026-01-12T19:45:53.501Z"
+    },
+    {
+      "id": "enr_e4003c033f14",
+      "userId": "user_demo_10",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2026-01-13T19:45:53.546Z"
+    },
+    {
+      "id": "enr_c49db0003ccb",
+      "userId": "user_demo_11",
+      "courseId": "course_marketing",
+      "status": "active",
+      "enrolledAt": "2026-02-14T19:45:53.586Z"
+    },
+    {
+      "id": "enr_bf5fd52ab911",
+      "userId": "user_demo_12",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-02-15T19:45:53.626Z"
+    },
+    {
+      "id": "enr_d6e84387e845",
+      "userId": "user_demo_13",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-02-16T19:45:53.666Z"
+    },
+    {
+      "id": "enr_d0ab290acc76",
+      "userId": "user_demo_14",
+      "courseId": "course_business",
+      "status": "active",
+      "enrolledAt": "2026-03-17T19:45:53.706Z"
+    },
+    {
+      "id": "enr_580009b18bb1",
+      "userId": "user_demo_15",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-03-18T19:45:53.746Z"
+    },
+    {
+      "id": "enr_892bbca74119",
+      "userId": "user_demo_16",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-03-19T19:45:53.785Z"
+    },
+    {
+      "id": "enr_8be4f54a0cf0",
+      "userId": "user_demo_17",
+      "courseId": "course_marketing",
+      "status": "active",
+      "enrolledAt": "2026-04-20T19:45:53.825Z"
+    },
+    {
+      "id": "enr_4abfda56ce6f",
+      "userId": "user_demo_18",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-04-03T19:45:53.864Z"
+    },
+    {
+      "id": "enr_b9f65c26225b",
+      "userId": "user_demo_19",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-04-04T19:45:53.905Z"
+    },
+    {
+      "id": "enr_fe07c8f3d0e4",
+      "userId": "user_demo_20",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-04-05T19:45:53.945Z"
+    },
+    {
+      "id": "enr_bf7bfb343c80",
+      "userId": "user_demo_21",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-05-06T19:45:53.985Z"
+    },
+    {
+      "id": "enr_1bcb4849eb09",
+      "userId": "user_demo_22",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-05-07T19:45:54.023Z"
+    },
+    {
+      "id": "enr_1f9f113e3c96",
+      "userId": "user_demo_23",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2026-05-08T19:45:54.061Z"
+    },
+    {
+      "id": "enr_46499b8def7b",
+      "userId": "user_demo_24",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-06-09T19:45:54.100Z"
+    },
+    {
+      "id": "enr_969a7ba667cb",
+      "userId": "user_demo_25",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-06-10T19:45:54.140Z"
+    },
+    {
+      "id": "enr_d8b07b739b50",
+      "userId": "user_demo_26",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-06-11T19:45:54.180Z"
+    },
+    {
+      "id": "enr_32449e9a3c0a",
+      "userId": "user_demo_27",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-06-12T19:45:54.219Z"
+    },
+    {
+      "id": "enr_b4add9aee051",
+      "userId": "user_demo_28",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-07-13T19:45:54.259Z"
+    },
+    {
+      "id": "enr_dcfd1a73fb52",
+      "userId": "user_demo_29",
+      "courseId": "course_marketing",
+      "status": "active",
+      "enrolledAt": "2026-07-14T19:45:54.299Z"
+    },
+    {
+      "id": "enr_663a081e613c",
+      "userId": "user_demo_30",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-07-15T19:45:54.338Z"
+    },
+    {
+      "id": "enr_1a09f9ce510f",
+      "userId": "user_demo_31",
+      "courseId": "course_python_ds",
+      "status": "active",
+      "enrolledAt": "2026-08-16T19:45:54.378Z"
+    },
+    {
+      "id": "enr_0a0fdeec3ab1",
+      "userId": "user_demo_32",
+      "courseId": "course_business",
+      "status": "active",
+      "enrolledAt": "2026-08-17T19:45:54.419Z"
+    },
+    {
+      "id": "enr_e06c39b0fffc",
+      "userId": "user_demo_33",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-08-18T19:45:54.459Z"
+    },
+    {
+      "id": "enr_75836629995f",
+      "userId": "user_demo_34",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2026-09-19T19:45:54.501Z"
+    },
+    {
+      "id": "enr_523375b71e45",
+      "userId": "user_demo_35",
+      "courseId": "course_marketing",
+      "status": "active",
+      "enrolledAt": "2026-09-20T19:45:54.653Z"
+    },
+    {
+      "id": "enr_157a58362d5e",
+      "userId": "user_demo_36",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-09-03T19:45:54.772Z"
+    },
+    {
+      "id": "enr_197adec4452c",
+      "userId": "user_demo_37",
+      "courseId": "course_flutter",
+      "status": "active",
+      "enrolledAt": "2026-09-04T19:45:54.846Z"
+    },
+    {
+      "id": "enr_4cf313b7b64d",
+      "userId": "user_demo_38",
+      "courseId": "course_web_bootcamp",
+      "status": "active",
+      "enrolledAt": "2026-10-05T19:45:54.920Z"
+    },
+    {
+      "id": "enr_7a02529973d8",
+      "userId": "user_demo_39",
+      "courseId": "course_js",
+      "status": "active",
+      "enrolledAt": "2026-10-06T19:45:54.988Z"
+    },
+    {
+      "id": "enr_3dee19f9f50d",
+      "userId": "user_demo_student",
+      "courseId": "course_web_bootcamp",
+      "status": "active",
+      "enrolledAt": "2026-08-10T19:45:55.053Z"
+    },
+    {
+      "id": "enr_9381fd78ba81",
+      "userId": "user_demo_student",
+      "courseId": "course_uiux",
+      "status": "active",
+      "enrolledAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "enr_43d45c6d4d35",
+      "userId": "user_36ea68bbbfcf",
+      "courseId": "course_html_css",
+      "status": "active",
+      "enrolledAt": "2026-10-26T19:51:21.049Z"
+    },
+    {
+      "id": "enr_81f3c94dd242",
+      "userId": "user_admin",
+      "courseId": "course_html_css",
+      "status": "active",
+      "enrolledAt": "2026-10-30T19:43:53.268Z"
+    },
+    {
+      "id": "enr_e824d57addec",
+      "userId": "user_d02a8cc6db02",
+      "courseId": "course_html_css",
+      "status": "active",
+      "enrolledAt": "2026-10-30T19:48:37.320Z"
+    }
+  ],
+  "progress": [
+    {
+      "id": "prog_d835a61f1295",
+      "userId": "user_demo_student",
+      "courseId": "course_web_bootcamp",
+      "lessonId": "lesson_bbaf51195466",
+      "completedAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "prog_b80fbb6d11bf",
+      "userId": "user_demo_student",
+      "courseId": "course_web_bootcamp",
+      "lessonId": "lesson_53e124c245b3",
+      "completedAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "prog_f191cd783514",
+      "userId": "user_demo_student",
+      "courseId": "course_web_bootcamp",
+      "lessonId": "lesson_bafc2951492e",
+      "completedAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "prog_cc4e0bf556bf",
+      "userId": "user_demo_student",
+      "courseId": "course_web_bootcamp",
+      "lessonId": "lesson_f2880e43a406",
+      "completedAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "prog_45717b561573",
+      "userId": "user_36ea68bbbfcf",
+      "courseId": "course_html_css",
+      "lessonId": "lesson_e5b76f0ee763",
+      "completedAt": "2026-10-26T19:52:47.293Z"
+    }
+  ],
+  "quizAttempts": [
+    {
+      "id": "attempt_7c54a51c81f0",
+      "userId": "user_36ea68bbbfcf",
+      "quizId": "quiz_7345b86e09cf",
+      "score": 40,
+      "correct": 2,
+      "total": 5,
+      "passed": false,
+      "submittedAt": "2026-10-26T19:52:19.996Z"
+    },
+    {
+      "id": "attempt_51fb6c609cda",
+      "userId": "user_36ea68bbbfcf",
+      "quizId": "quiz_7345b86e09cf",
+      "score": 60,
+      "correct": 3,
+      "total": 5,
+      "passed": false,
+      "submittedAt": "2026-10-26T19:58:26.278Z"
+    },
+    {
+      "id": "attempt_7ca19b9e1adb",
+      "userId": "user_36ea68bbbfcf",
+      "quizId": "quiz_7345b86e09cf",
+      "score": 40,
+      "correct": 2,
+      "total": 5,
+      "passed": false,
+      "submittedAt": "2026-10-26T20:20:10.695Z"
+    },
+    {
+      "id": "attempt_b0ae3fb7e692",
+      "userId": "user_36ea68bbbfcf",
+      "quizId": "quiz_7345b86e09cf",
+      "score": 40,
+      "correct": 2,
+      "total": 5,
+      "passed": false,
+      "submittedAt": "2026-10-27T18:26:23.054Z"
+    }
+  ],
+  "certificates": [],
+  "reviews": [
+    {
+      "id": "review_bafeb74f5113",
+      "kind": "course",
+      "targetId": "course_web_bootcamp",
+      "userId": "user_demo_0",
+      "name": "Ahmed Mohamed",
+      "rating": 5,
+      "text": "Clear explanations and great projects. I built my first portfolio site in a week.",
+      "createdAt": "2026-07-10T19:45:55.053Z"
+    },
+    {
+      "id": "review_91c681b206fa",
+      "kind": "course",
+      "targetId": "course_web_bootcamp",
+      "userId": "user_demo_1",
+      "name": "Sara Ali",
+      "rating": 5,
+      "text": "Best beginner course I have taken. Sarah explains everything step by step.",
+      "createdAt": "2026-08-10T19:45:55.053Z"
+    },
+    {
+      "id": "review_381be679d25d",
+      "kind": "course",
+      "targetId": "course_uiux",
+      "userId": "user_demo_2",
+      "name": "Omar Hassan",
+      "rating": 4,
+      "text": "Very practical. I would love even more Figma exercises.",
+      "createdAt": "2026-08-10T19:45:55.053Z"
+    },
+    {
+      "id": "review_4d28b5280889",
+      "kind": "instructor",
+      "targetId": "ins_sarah",
+      "userId": "user_demo_3",
+      "name": "Nour Ibrahim",
+      "rating": 5,
+      "text": "An amazing teacher who makes hard topics simple.",
+      "createdAt": "2026-09-10T19:45:55.053Z"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "wish_4402e95ccfa6",
+      "userId": "user_demo_student",
+      "courseId": "course_react",
+      "createdAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "wish_df68d3bf8855",
+      "userId": "user_demo_student",
+      "courseId": "course_python_ds",
+      "createdAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "wish_88fac3934fb6",
+      "userId": "user_demo_student",
+      "courseId": "course_js",
+      "createdAt": "2026-09-10T19:45:55.053Z"
+    },
+    {
+      "id": "wish_4649ebecef70",
+      "userId": "user_36ea68bbbfcf",
+      "courseId": "course_web_bootcamp",
+      "createdAt": "2026-10-27T18:27:38.489Z"
+    },
+    {
+      "id": "wish_f9c59802e362",
+      "userId": "user_d02a8cc6db02",
+      "courseId": "course_web_bootcamp",
+      "createdAt": "2026-10-30T19:48:58.340Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "order_123128669274",
+      "userId": "user_demo_0",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-11-03T19:45:53.068Z"
+    },
+    {
+      "id": "order_565043a091ff",
+      "userId": "user_demo_1",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-11-04T19:45:53.122Z"
+    },
+    {
+      "id": "order_14d1e1baf419",
+      "userId": "user_demo_2",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-11-05T19:45:53.168Z"
+    },
+    {
+      "id": "order_e04faf49733c",
+      "userId": "user_demo_3",
+      "items": [
+        {
+          "courseId": "course_react",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-11-06T19:45:53.223Z"
+    },
+    {
+      "id": "order_43617bace49a",
+      "userId": "user_demo_4",
+      "items": [
+        {
+          "courseId": "course_react",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "pending",
+      "createdAt": "2025-12-07T19:45:53.274Z"
+    },
+    {
+      "id": "order_8c4bebc9e5f1",
+      "userId": "user_demo_5",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-12-08T19:45:53.323Z"
+    },
+    {
+      "id": "order_084bb97a4e01",
+      "userId": "user_demo_6",
+      "items": [
+        {
+          "courseId": "course_business",
+          "price": 35
+        }
+      ],
+      "amount": 35,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2025-12-09T19:45:53.365Z"
+    },
+    {
+      "id": "order_4356e58d6f7c",
+      "userId": "user_demo_7",
+      "items": [
+        {
+          "courseId": "course_business",
+          "price": 35
+        }
+      ],
+      "amount": 35,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-01-10T19:45:53.410Z"
+    },
+    {
+      "id": "order_fd9e025a9cf8",
+      "userId": "user_demo_8",
+      "items": [
+        {
+          "courseId": "course_web_bootcamp",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-01-11T19:45:53.455Z"
+    },
+    {
+      "id": "order_9981b4039ade",
+      "userId": "user_demo_9",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-01-12T19:45:53.501Z"
+    },
+    {
+      "id": "order_2ebc943c0377",
+      "userId": "user_demo_10",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-01-13T19:45:53.546Z"
+    },
+    {
+      "id": "order_5b4e52826510",
+      "userId": "user_demo_11",
+      "items": [
+        {
+          "courseId": "course_marketing",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-02-14T19:45:53.586Z"
+    },
+    {
+      "id": "order_ebd51d4e9bff",
+      "userId": "user_demo_12",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-02-15T19:45:53.626Z"
+    },
+    {
+      "id": "order_60e8d304d8f8",
+      "userId": "user_demo_13",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "pending",
+      "createdAt": "2026-02-16T19:45:53.666Z"
+    },
+    {
+      "id": "order_9db4527ba9be",
+      "userId": "user_demo_14",
+      "items": [
+        {
+          "courseId": "course_business",
+          "price": 35
+        }
+      ],
+      "amount": 35,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-03-17T19:45:53.706Z"
+    },
+    {
+      "id": "order_80f721568b1e",
+      "userId": "user_demo_15",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-03-18T19:45:53.746Z"
+    },
+    {
+      "id": "order_991f0880469f",
+      "userId": "user_demo_16",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-03-19T19:45:53.785Z"
+    },
+    {
+      "id": "order_b174b687dcd8",
+      "userId": "user_demo_17",
+      "items": [
+        {
+          "courseId": "course_marketing",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-04-20T19:45:53.825Z"
+    },
+    {
+      "id": "order_4eb7d85c1b33",
+      "userId": "user_demo_18",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-04-03T19:45:53.864Z"
+    },
+    {
+      "id": "order_770cef27e0e6",
+      "userId": "user_demo_19",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-04-04T19:45:53.905Z"
+    },
+    {
+      "id": "order_a69d6c4af74b",
+      "userId": "user_demo_20",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-04-05T19:45:53.945Z"
+    },
+    {
+      "id": "order_1e30d21f5f29",
+      "userId": "user_demo_21",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-05-06T19:45:53.985Z"
+    },
+    {
+      "id": "order_874651f7370f",
+      "userId": "user_demo_22",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "pending",
+      "createdAt": "2026-05-07T19:45:54.023Z"
+    },
+    {
+      "id": "order_c2bb063b54b0",
+      "userId": "user_demo_23",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-05-08T19:45:54.061Z"
+    },
+    {
+      "id": "order_e29bd64eb51c",
+      "userId": "user_demo_24",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-06-09T19:45:54.100Z"
+    },
+    {
+      "id": "order_a9f0f05978f7",
+      "userId": "user_demo_25",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-06-10T19:45:54.140Z"
+    },
+    {
+      "id": "order_94cd79e568d2",
+      "userId": "user_demo_26",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-06-11T19:45:54.180Z"
+    },
+    {
+      "id": "order_e72c16efc2d4",
+      "userId": "user_demo_27",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-06-12T19:45:54.219Z"
+    },
+    {
+      "id": "order_8244b4350895",
+      "userId": "user_demo_28",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-07-13T19:45:54.259Z"
+    },
+    {
+      "id": "order_b4b753accf9f",
+      "userId": "user_demo_29",
+      "items": [
+        {
+          "courseId": "course_marketing",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-07-14T19:45:54.299Z"
+    },
+    {
+      "id": "order_a70d7f060c67",
+      "userId": "user_demo_30",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-07-15T19:45:54.338Z"
+    },
+    {
+      "id": "order_cfa71589e859",
+      "userId": "user_demo_31",
+      "items": [
+        {
+          "courseId": "course_python_ds",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "pending",
+      "createdAt": "2026-08-16T19:45:54.378Z"
+    },
+    {
+      "id": "order_d8bcc3ecd728",
+      "userId": "user_demo_32",
+      "items": [
+        {
+          "courseId": "course_business",
+          "price": 35
+        }
+      ],
+      "amount": 35,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-08-17T19:45:54.419Z"
+    },
+    {
+      "id": "order_0bb57166266a",
+      "userId": "user_demo_33",
+      "items": [
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 39,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-08-18T19:45:54.459Z"
+    },
+    {
+      "id": "order_5650a86a895c",
+      "userId": "user_demo_34",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-09-19T19:45:54.501Z"
+    },
+    {
+      "id": "order_88a70c7dc180",
+      "userId": "user_demo_35",
+      "items": [
+        {
+          "courseId": "course_marketing",
+          "price": 45
+        }
+      ],
+      "amount": 45,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-09-20T19:45:54.653Z"
+    },
+    {
+      "id": "order_346c2e2ab1f2",
+      "userId": "user_demo_36",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-09-03T19:45:54.772Z"
+    },
+    {
+      "id": "order_6374d2728170",
+      "userId": "user_demo_37",
+      "items": [
+        {
+          "courseId": "course_flutter",
+          "price": 55
+        }
+      ],
+      "amount": 55,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-09-04T19:45:54.846Z"
+    },
+    {
+      "id": "order_e3899cc5c535",
+      "userId": "user_demo_38",
+      "items": [
+        {
+          "courseId": "course_web_bootcamp",
+          "price": 49
+        }
+      ],
+      "amount": 49,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-10-05T19:45:54.920Z"
+    },
+    {
+      "id": "order_fa5c9900141f",
+      "userId": "user_demo_39",
+      "items": [
+        {
+          "courseId": "course_js",
+          "price": 29
+        }
+      ],
+      "amount": 29,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-10-06T19:45:54.988Z"
+    },
+    {
+      "id": "order_18d03a992c97",
+      "userId": "user_demo_student",
+      "items": [
+        {
+          "courseId": "course_web_bootcamp",
+          "price": 49
+        },
+        {
+          "courseId": "course_uiux",
+          "price": 39
+        }
+      ],
+      "amount": 88,
+      "currency": "USD",
+      "paymentMethod": "card",
+      "paymentProvider": "demo-only",
+      "status": "completed",
+      "createdAt": "2026-09-10T19:45:55.053Z"
+    }
+  ],
+  "supportTickets": [],
+  "contactMessages": [],
+  "settings": {
+    "platformName": "EduLearn",
+    "currency": "USD",
+    "allowRegistration": true,
+    "supportEmail": "support@edulearn.com"
+  }
+}

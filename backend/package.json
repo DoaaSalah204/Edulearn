@@ -1,0 +1,13 @@
+{
+  "name": "edulearn-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "EduLearn API (Node.js built-in modules only)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "reset": "node -e \"require('fs').rmSync('data/db.json',{force:true});console.log('Database removed. It will be recreated with demo data on next start.')\"",
+    "create-admin": "node create-admin.js"
+  }
+}
